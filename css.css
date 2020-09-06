@@ -1,0 +1,39 @@
+#mainBlock {
+  width: auto;
+  padding: 15px;
+  background-color: grey;
+}
+#title {
+  margin-left: 25%;
+  padding: 15px;
+}
+.tit {
+  display: inline-block;
+}
+.first,
+.second,
+.third,
+.fourth {
+  display: inline-block;
+  margin: 2px;
+  border: solid 3px black;
+  vertical-align: bottom;
+}
+.line {
+  margin-left: 15%;
+  vertical-align: bottom;
+}
+.blue {
+  background-clip: content-box;
+  padding: 5px;
+  background: blue;
+  width: 125px;
+  height: 125px;
+  padding: 10px 5px 5px 10px;
+}
+.pink {
+  background-color: crimson;
+  width: 130px;
+  height: 135px;
+  padding: 2px;
+}
